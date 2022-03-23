@@ -1,0 +1,5 @@
+/node_modules
+/ts_files
+/cockroach-data
+*.js
+/.DS_Store
